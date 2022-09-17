@@ -11,4 +11,9 @@ As part of the JP Morgan Virtual Experience, I:
   
   
 In this video, I explain the changes made to the graph and what I learned.
-https://user-images.githubusercontent.com/44533760/190871689-54061b53-156c-478a-988d-4c8deda0b2ae.mp4
+
+
+
+
+https://user-images.githubusercontent.com/44533760/190871848-1129f2b5-0d12-4ef6-80f9-b41bd20cd574.mp4
+
